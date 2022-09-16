@@ -4,6 +4,7 @@ body{
 	color: white;
 	max-width: 100%;
 	max-height: 100%;
+
 }
 
 .textTest{
@@ -225,7 +226,8 @@ background: linear-gradient(90deg, rgba(64,64,64,1) 0%, rgba(219,110,37,1) 39%, 
 .startPageBackground2{
 	background: rgb(11,32,89);
 	background: linear-gradient(90deg, rgba(11,32,89,1) 0%, rgba(227,155,97,1) 39%, rgba(70,18,22,1) 100%);
-	}
+
+}
 .marsgardenindex2{
 	content: ' ';
 	display:grid;
@@ -444,3 +446,9 @@ background: linear-gradient(90deg, rgba(64,64,64,1) 0%, rgba(219,110,37,1) 39%, 
         text-align: center;
     
     }
+	.startPageBackground3{
+		left:0;
+
+		
+	}
+
