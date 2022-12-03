@@ -225,7 +225,7 @@ background: linear-gradient(90deg, rgba(64,64,64,1) 0%, rgba(219,110,37,1) 39%, 
 }
 .startPageBackground2{
 	background: rgb(11,32,89);
-	background-image: url('img/MarsGardenNet/ethnight.jpg');
+	background-image: url('img/MarsGardenNet/ethnight.gif');
 	background-size: 100%;
 	background-repeat:space;
 }
