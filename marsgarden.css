@@ -389,6 +389,7 @@ background: linear-gradient(90deg, rgba(64,64,64,1) 0%, rgba(219,110,37,1) 39%, 
 
 .MarsGardenNet{
 	position:fixed;
+	color:rgb(0, 122, 96);
 }
 
 /* @Media */ 
